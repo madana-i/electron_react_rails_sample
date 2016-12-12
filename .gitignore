@@ -1,0 +1,13 @@
+# Frontend
+/Frontend/node_modules
+/Frontend/frontend/bundle.js
+
+# Server
+/Server/.bundle
+
+/Server/log/*
+/Server/tmp/*
+!/Server/log/.keep
+!/Server/tmp/.keep
+
+.byebug_history
