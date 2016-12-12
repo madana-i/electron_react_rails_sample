@@ -7,7 +7,7 @@
 
 /Server/log/*
 /Server/tmp/*
-!/Server/log/.keep
-!/Server/tmp/.keep
+/Server/log/.keep
+/Server/tmp/.keep
 
 .byebug_history
